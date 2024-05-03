@@ -1,3 +1,2 @@
-Nama : Ahmad Zohari
-NIM : 2205033
-Kelas : D4RPL2B
+# TugasSingleton_d4rpl2b
+Tugas Desain Perangkat Lunak 2
